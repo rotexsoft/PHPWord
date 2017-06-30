@@ -1,4 +1,6 @@
-# ![PHPWord](https://rawgit.com/PHPOffice/PHPWord/develop/docs/images/phpword.svg "PHPWord") NOTE: This fork requires zend-escaper 2.5.*, zend-stdlib 3.0.*, zend-validator 2.8.* and PHP 5.5.0+ 
+# ![PHPWord](https://rawgit.com/PHPOffice/PHPWord/develop/docs/images/phpword.svg "PHPWord") 
+
+## NOTE: This fork requires zend-escaper 2.5.x, zend-stdlib 3.0.x, zend-validator 2.8.x and PHP 5.5.0+ 
 
 ## :mag_right: PHPWord is looking for a new maintainer :crown: :pencil: ([#948](https://github.com/PHPOffice/PHPWord/issues/948)) 
 
